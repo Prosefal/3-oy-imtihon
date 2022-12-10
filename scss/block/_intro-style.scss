@@ -1,0 +1,38 @@
+.intro{
+  background-color: 
+  #FCFBFF;
+}
+.easy{
+  background-image: url(../../images/intro-bg-1.png);
+  background-repeat: no-repeat;
+  background-position: right center;
+}
+
+
+.easy{
+  padding-top: 172px;
+  padding-bottom: 172px;
+}
+
+
+
+.advance{
+  background-image: url(../../images/intro-bg-2.png);
+  background-repeat: no-repeat;
+  background-position: left center;
+}
+
+.advance{
+  padding-top: 172px;
+  padding-bottom: 172px;
+  padding-left: 700px;
+}
+
+.advance{
+display: flex;
+
+}
+
+.advance-body{
+  justify-content: end;
+}

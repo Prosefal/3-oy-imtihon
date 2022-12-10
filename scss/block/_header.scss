@@ -1,0 +1,79 @@
+.dark-img{
+  border-radius: 50%;
+}
+
+.site-header{
+  background-image: url(../../images/hero-bgi.png);
+  background-repeat: no-repeat  ;
+}
+
+.click{ 
+  border-radius: 50%;
+  border: none;
+}
+
+.header-nav{
+  padding-top: 10px;
+  margin-left: 300px;
+
+}
+
+.header-list{
+  list-style-type: none;
+}
+
+.header-inner{
+  align-items: center;
+  padding: 56px 100px;
+  padding-bottom: 200px;
+}
+
+.header-link{
+  color: #fff;
+  text-decoration: none;
+}
+
+.header-link:hover{
+  color: #fff;
+  opacity: 0.3;
+}
+
+.header-item + .header-item{
+  margin-left: 40px;
+}
+
+.watch::after{
+  top: 558px;
+  left: 875px;
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  margin-left: 12.95px;
+  display: inline-block;
+  background-image: url('../../images/watch-img.svg');
+  background-repeat: no-repeat;
+  content: "";
+}
+
+.watch{
+  margin-left: 30px;
+  width: 200px;
+  padding: 5px 5px;
+  align-items: center;
+  background-color: transparent;
+  color: #fff;
+  border: 2px solid #fff;
+}
+
+.header-bottom-button{
+  padding-bottom: 830px;
+  display: flex;
+  padding-left: 470px;
+}
+
+.section-bg{
+  position: absolute;
+  display: block;
+  background-image: url(../../images/Macbook-Pro-16.png);
+  background-repeat: no-repeat;
+}

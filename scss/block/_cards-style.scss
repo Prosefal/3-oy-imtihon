@@ -1,0 +1,23 @@
+.main-title {
+  font-weight: 700;
+  font-size: 48px;
+}
+
+.card:hover {
+  transition: all 0.4s ease;
+  background-color: #F7F5FF;
+}
+
+.click {
+  text-decoration: none;
+  color: #000;
+  transition: all 0.5s ease;
+}
+
+.click:hover {
+  color: #FF007A;
+}
+
+.click:active {
+  opacity: 3;
+}
